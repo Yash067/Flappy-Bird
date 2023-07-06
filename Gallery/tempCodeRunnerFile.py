@@ -1,0 +1,1 @@
+BACKGROUND = 'C:\Users\harne\Desktop\Flappy Bird-20230706T025016Z-001\Flappy Bird\Gallery\sprites\background.png'
