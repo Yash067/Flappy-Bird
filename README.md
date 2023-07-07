@@ -1,2 +1,2 @@
 # Flappy-Bird
-This is my first python project created in first year of college.
+This flappy bird game was created in my first year with a curiosity about the Python language with the help of @codewithharry.
